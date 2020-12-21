@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Alex and I'm currently studying Front-End Development.
+My name is Alex and I'm currently studying Front-End Development. 
 Feel free to look through my repositories to observe my progress.
 
 Contacts:
